@@ -31,4 +31,4 @@ Actuellement, le projet est en phase de développement actif avec une attention 
 
 
 ---
-*Développé par ADAM Mohamed 
+*Développé par ADAM Mohamed*
